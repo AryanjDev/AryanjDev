@@ -211,7 +211,7 @@
     <img src="https://img.shields.io/badge/GitHub-AryanjDev-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="YOUR_LINKEDIN_PROFILE_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://www.linkedin.com/in/aryan-jha-31ab84362?utm_source=share_via&utm_content=profile&utm_medium=member_android" />
   </a>
 </p>
 
