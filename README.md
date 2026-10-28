@@ -75,7 +75,7 @@ I’m an IT student who enjoys solving problems, understanding how systems reall
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=heatmap" alt="LeetCode progress" />
+  <img src="https://leetcard.jacoblin.cool/tmwwVVf41w?theme=dark&ext=heatmap" alt="LeetCode progress" />
 </p>
 
 <p align="center">
