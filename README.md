@@ -45,17 +45,6 @@ I’m an IT student who enjoys solving problems, understanding how systems reall
 
 ---
 
-## 📌 Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/aryanjdev/java-language-practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanjdev&repo=java-language-practice&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/AryanjDev/DSA_IN_JAVA.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanjdev&repo=dsa-in-java&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/AryanjDev/OOPS-in-Java.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanjdev&repo=oop-in-java&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/aryanjdev/yatra-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanjdev&repo=yatra-frontend&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/AryanjDev/Yatra-BackEnd-and-API.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanjdev&repo=yatra-backend-api&theme=tokyonight&hide_border=true" /></a>
-</p>
-
----
 
 ## 📊 Activity & Progress
 
